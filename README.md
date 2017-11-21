@@ -1,3 +1,5 @@
 # Profiles REST API #
 
-REST API providing basic functionality for managing user profiles.
+**DEPRECATED**
+
+This project has moved to: https://github.com/LondonAppDeveloper/byob-profiles-rest-api
